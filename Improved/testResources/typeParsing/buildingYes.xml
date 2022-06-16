@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testXML>
+    <!-- Tests for OSMType.YES_BU -->
+    <test parent="BUILDING" child="MINK_SHED"/>
+    <test parent="BUILDING" child="OUTHOUSE"/>
+    <test parent="BUILDING" child="PRIMARY"/>
+    <test parent="BUILDING" child="SERVICE"/>
+    <test parent="BUILDING" child="SYNAGOGUE"/>
+</testXML>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testXML>
+    <!-- Tests for OSMType.UNKNOWN -->
+    <test parent="AMENITY" child="VACUUM_CLEANER"/>
+    <test parent="BARRIER" child="BUS_TRAP"/>
+    <test parent="BOUNDARY" child="POLITICAL"/>
+    <test parent="BUILDING" child="PILLAR"/>
+    <test parent="HIGHWAY" child="ABANDONED"/>
+</testXML>
