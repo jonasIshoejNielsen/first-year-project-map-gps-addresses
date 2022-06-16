@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testXML>
+    <!-- Tests that will fail in loading -->
+    <test parent="CAKE" child="SUGAR"/>
+    <test parent="BUILDING" child="CATHOUSE"/>
+    <test parent="FAILING_GROUND" child="YES"/>
+    <test parent="FAILING_GROUND"/>
+    <test/>
+</testXML>
